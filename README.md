@@ -35,3 +35,33 @@ Para enfatisar simplemente envuelva un texto en comillas simples o dobles y/o tr
 | Negrita | `**texto**` o `__texto__` | **negrita** |
 | Combinado | `**_texto_**` | **_combinado_** |
 | Tachado | `~~texto~~` | ~~tachado~~ |
+
+## 📝 Listas Ejercicio 4.
+
+Las listas son importantes para la informacion estructurada. No hay nada dificil en la creacion de listas en Markdown simplemente incerte un arterisco (*) o un guion (-) antes de cada 
+elemento para una lista desordenada o un numero con un punto para una lista ordenada.
+
+### Lista Desordenada
+
+* Articulo Num 1
+* Item 2
+* Item 3
+* Item 4
+* Item 5
+
+### Listas Ordenadas
+
+1. Articulo 1
+2. Item 2
+3. Item 3
+4. Item 4
+5. Item 5
+
+### Listas Anidadas
+
+No hay nada dificl en hacer listas anidadas simplemente agrege una pestaña o espacio para elementos anidados. Para las listas con asteriscos (*) o con guiones (-) tambien funciona
+
+- Elemento 1
+  - Elemento 1.1
+- Elemento 2
+  - Elemento 2.1
