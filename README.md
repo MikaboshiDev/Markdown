@@ -106,3 +106,18 @@ Algunos texto para mostrar que los enlaces de referencia pueden seguir mas adela
 [Analisis de Comentarios]: https://remark.js.org/
 
 Como puede notar arriba las referencias no distiguen entre mayusculas o minusculas y usted es libre de usar numeros como referencia o usar el texto del enlace como el mismo.
+
+## 🎱 Listas de Tareas Ejercicio 6
+
+Para crear una lista de tarea debes crear una lista ordenada o desordenada. Entonces puedes usar corchetes que se conviertan en casillas de verificaccion, con una **x** entre ellos haces que la casilla
+se marque como completada.
+
+```
+- [x] [links](#), **formating**, and <del>Tags</del> supported
+- [x] list syntax supported
+- [] this is an incompleted
+```
+
+- [x] [links](#), **formating**, and <del>Tags</del> supported
+- [x] list syntax supported
+- [] this is an incompleted
