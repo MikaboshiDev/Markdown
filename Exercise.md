@@ -5,16 +5,16 @@ Lorem the ipsum dolor sit amet, consectetur adipiscing elit Lorem the ipsum dolo
 
 ## Lorem the ipsum dolor sit amet
 
-Lorem the ipsum dolor sit amet, *consectetur* adipiscing elit Lorem the ipsum dolor sit amet, **consectetur** adipiscing elit Lorem the ipsum dolor sit amet, **_consectetur_** adipiscing elit
+Lorem the ipsum dolor sit amet, _consectetur_ adipiscing elit Lorem the ipsum dolor sit amet, **consectetur** adipiscing elit Lorem the ipsum dolor sit amet, **_consectetur_** adipiscing elit
 Lorem the ipsum dolor sit amet, ~~consectetur~~ adipiscing elit
 
 ## Lorem the ipsum dolor sit amet
 
-| Lorem | Ipsum | Dolor | Sit | Amet |
-| --- | --- | --- | --- | --- |
+| Lorem  | Ipsum  | Dolor  | Sit    | Amet   |
+| ------ | ------ | ------ | ------ | ------ |
 | Header | Header | Header | Header | Header |
-| Lorem | Ipsum | Dolor | Sit | Amet |
-| Lorem | Ipsum | Dolor | Sit | Amet |
+| Lorem  | Ipsum  | Dolor  | Sit    | Amet   |
+| Lorem  | Ipsum  | Dolor  | Sit    | Amet   |
 
 ## Lorem the ipsum dolor sit amet
 
@@ -29,8 +29,8 @@ def hello():
 
 ## Lorem the ipsum dolor sit amet
 
-- Lorem the ipsum dolor sit amet
-- Lorem the ipsum dolor sit amet
+-  Lorem the ipsum dolor sit amet
+-  Lorem the ipsum dolor sit amet
 
 ## Lorem the ipsum dolor sit amet
 
@@ -39,12 +39,12 @@ def hello():
 
 ## Lorem the ipsum dolor sit amet
 
-- Lorem the ipsum dolor sit amet
-  - Lorem the ipsum dolor sit amet
-  - Lorem the ipsum dolor sit amet
-- Lorem the ipsum dolor sit amet
-  - Lorem the ipsum dolor sit amet
-  - Lorem the ipsum dolor sit amet
+-  Lorem the ipsum dolor sit amet
+   -  Lorem the ipsum dolor sit amet
+   -  Lorem the ipsum dolor sit amet
+-  Lorem the ipsum dolor sit amet
+   -  Lorem the ipsum dolor sit amet
+   -  Lorem the ipsum dolor sit amet
 
 ## Lorem the ipsum dolor sit amet
 
@@ -57,4 +57,3 @@ def hello():
 
 Lorem the ipsum dolor sit amet, consectetur adipiscing elit. Donec quis diam Lorem Lorem the ipsum dolor sit amet, consectetur adipiscing elit Lorem the ipsum dolor sit amet, consectetur adipiscing elit
 Lorem the ipsum dolor sit amet, consectetur adipiscing elit Lorem the ipsum dolor sit amet, consectetur adipiscing elit Lorem the ipsum dolor sit amet, consectetur adipiscing elit
-
