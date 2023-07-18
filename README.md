@@ -3,7 +3,7 @@
 A continuación se presentan los comandos más utilizados en Markdown apartir de una guia de node school que anteriormente se realizó en el curso de [Node.js](
 sin mas por el momento empezemos.
 
-## Titulos Ejercicio 2.
+## 🤭 Titulos Ejercicio 2.
 
 Si necesitas agregar un encabezado simple agrege # al comienzo de l linea. El nummero de # indica el nivel del encabezado.
 
@@ -23,3 +23,15 @@ Encabezado 1
 
 Encabezado 2
 ---
+
+## 🧑‍⚕️ Enfasis Ejercicio 3.
+
+Es facil marcar el texto como **cursiva, negrita, combinado o tachado**. Hay algunas formas de hacer enfasis en Markdown y cada una de ellas es legible.
+Para enfatisar simplemente envuelva un texto en comillas simples o dobles y/o triples.
+
+| Tipo de Enfasis | Sintaxis | Ejemplo |
+| ------ | ------ | ------ |
+| Cursiva | `*texto*` o `_texto_` | *cursiva* |
+| Negrita | `**texto**` o `__texto__` | **negrita** |
+| Combinado | `**_texto_**` | **_combinado_** |
+| Tachado | `~~texto~~` | ~~tachado~~ |
